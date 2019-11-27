@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\assel\source\repos\2048_game\2048_game\source.cpp(619): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2048_game.vcxproj -> C:\Users\Assel\source\repos\2048_game\Debug\2048_game.exe
